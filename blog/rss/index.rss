@@ -5,8 +5,8 @@
 		<link>https://jtmaher2.github.io/My-Blog/blog/</link>
 		<description />
 		<copyright>2021</copyright>
-		<pubDate>Sat, 17 Jul 2021 19:11:26 GMT</pubDate>
-		<lastBuildDate>Sat, 17 Jul 2021 19:11:26 GMT</lastBuildDate>
+		<pubDate>Sat, 17 Jul 2021 19:14:25 GMT</pubDate>
+		<lastBuildDate>Sat, 17 Jul 2021 19:14:25 GMT</lastBuildDate>
 		<item>
 			<title>2016 05 26 Twisted Triangle</title>
 			<link>https://jtmaher2.github.io/blog/2020/2016-05-26-twisted-triangle</link>
@@ -1155,11 +1155,11 @@ movies. It gets this information in JSON format from &lt;a href="https://www.the
 app also shows details about specific movies, and allows the user to mark
 favorites. You can find the source code, and an APK, &lt;a href="https://github.com/JTMaher2/Movie-Info-App"&gt;on GitHub&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Here are some screenshots:&lt;/p&gt;
-&lt;p&gt;&lt;img src="http://jtmaher2.github.io/assets/img/movie-info-app-1.png" alt="popular movies" /&gt;
-&lt;img src="http://jtmaher2.github.io/assets/img/movie-info-app-2.png" alt="top rated movies" /&gt;
-&lt;img src="http://jtmaher2.github.io/assets/img/movie-info-app-3.png" alt="favorite movies" /&gt;
-&lt;img src="http://jtmaher2.github.io/assets/img/movie-info-app-4.png" alt="movie details" /&gt;
-&lt;img src="http://jtmaher2.github.io/assets/img/movie-info-app-5.png" alt="settings" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="http://jtmaher2.github.io/My-Blog/assets/img/movie-info-app-1.png" alt="popular movies" /&gt;
+&lt;img src="http://jtmaher2.github.io/My-Blog/assets/img/movie-info-app-2.png" alt="top rated movies" /&gt;
+&lt;img src="http://jtmaher2.github.io/My-Blog/assets/img/movie-info-app-3.png" alt="favorite movies" /&gt;
+&lt;img src="http://jtmaher2.github.io/My-Blog/assets/img/movie-info-app-4.png" alt="movie details" /&gt;
+&lt;img src="http://jtmaher2.github.io/My-Blog/assets/img/movie-info-app-5.png" alt="settings" /&gt;&lt;/p&gt;
 </content:encoded>
 			<comments xmlns="http://purl.org/rss/1.0/modules/slash/">0</comments>
 		</item>
