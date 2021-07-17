@@ -11,6 +11,7 @@ namespace StatiqBlog
         static async Task<int> Main(string[] args) =>
             await Bootstrapper.Factory
                 .CreateWeb(args)
+                
                 .AddSetting(Keys.Host, new Uri(Constants.SiteUri).Host)
                 .AddSetting(Keys.LinksUseHttps, true)
                 .AddSetting(

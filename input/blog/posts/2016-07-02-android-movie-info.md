@@ -10,11 +10,11 @@ favorites. You can find the source code, and an APK, [on GitHub][github-source].
 
 Here are some screenshots:
 
-![popular movies](http://jtmaher2.github.io/assets/img/movie-info-app-1.png)
-![top rated movies](http://jtmaher2.github.io/assets/img/movie-info-app-2.png)
-![favorite movies](http://jtmaher2.github.io/assets/img/movie-info-app-3.png)
-![movie details](http://jtmaher2.github.io/assets/img/movie-info-app-4.png)
-![settings](http://jtmaher2.github.io/assets/img/movie-info-app-5.png)
+![popular movies](http://jtmaher2.github.io/My-Blog/assets/img/movie-info-app-1.png)
+![top rated movies](http://jtmaher2.github.io/My-Blog/assets/img/movie-info-app-2.png)
+![favorite movies](http://jtmaher2.github.io/My-Blog/assets/img/movie-info-app-3.png)
+![movie details](http://jtmaher2.github.io/My-Blog/assets/img/movie-info-app-4.png)
+![settings](http://jtmaher2.github.io/My-Blog/assets/img/movie-info-app-5.png)
 
 
 
